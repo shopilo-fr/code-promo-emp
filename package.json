@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-emp",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo EMP depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-emp",
+    "bon-de-reduction-emp",
+    "coupon-emp",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/emp-online.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-emp.git"
+  }
+}
